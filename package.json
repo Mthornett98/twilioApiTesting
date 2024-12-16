@@ -1,0 +1,14 @@
+{
+  "name": "twilioapitesting",
+  "version": "1.0.0",
+  "description": "Testing twilio api from vscode and command line",
+  "main": "explore.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Matthew Brett Thornett",
+  "license": "ISC",
+  "dependencies": {
+    "twilio": "^5.4.0"
+  }
+}
